@@ -84,10 +84,10 @@ Flask-NYC
 
 :id: flask-nyc-event
 
-JavaScript MVC Showcase
-=======================
+Flask Workshop with PyLadies
+============================
 
-Coming in January
+Wednesday, December 18, 2013 @ TheLadders
 
 ----
 

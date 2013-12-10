@@ -1,0 +1,69 @@
+@import url(hovercraft.css);
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+a {
+  background: #000;
+  color: rgba(255, 255, 255, .7);
+}
+
+a:hover {
+  background: rgba(255, 255, 255, .7);
+  color: rgba(0, 0, 0, .7);
+}
+
+div#nycpython-event h1,
+div#flask-nyc-event h1 {
+  font-size: 2em;
+}
+
+div#nycpython-schedule p {
+  line-height: 2em;
+}
+
+div#community {
+  width: 590px;
+}
+
+div#james h1,
+div#andy h1,
+div#celia h1,
+div#kat h1,
+div#jon h1,
+div#emily h1,
+div#ben h1 {
+  font-size: 3em;
+  margin-bottom: 0;
+}
+
+div#james h2,
+div#andy h2,
+div#celia h2,
+div#kat h2,
+div#jon h2,
+div#emily h2,
+div#ben h2 {
+  font-size: 2em;
+  margin-bottom: .6em;
+  margin-top: 0;
+}
+
+div#ben h2 {
+  font-size: 1.8em;
+}
+
+div#logo {
+  width: 1000px;
+}

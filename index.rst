@@ -6,10 +6,10 @@
 
 :id: nycpython-current-event
 
-An Evening with Python
-======================
+For Python Quants
+=================
 
-Tuesday, December 10, 2013 @ TheLadders
+Thursday, January 16, 2014 @ Projective Space (sponsored by VDX Technology)
 
 ----
 
@@ -24,14 +24,18 @@ Get your slides ready!
 
 :id: giveaway
 
-Generator Showcase Showdown
-===========================
+Showcase Showdown
+=================
 
-`Python Cookbook <http://shop.oreilly.com/product/9780596001674.do>`_
+`Python in Practice <http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000531789>`_
 
 `Learn Python the Hard Way (e-book) <learnpythonthehardway.org>`_
 
-`Python in Practice (e-book) <http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000531789>`_
+`Derivative Analytics with Python <http://derivatives-analytics-with-python.com/>`_
+
+`For Python Quants Conf, 14-Mar (2 tickets) <http://www.forpythonquants.com>`_
+
+`For Python Quants Conf, 14-Mar (20% discount) <http://www.forpythonquants.com>`_
 
 ----
 
@@ -42,7 +46,7 @@ Big Apple Py
 
 `bigapplepy.org <http://bigapplepy.org>`_
 
-`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
+`@BigApplePyInc <https://twitter.com/bigapplepyinc>`_
 
 ----
 
@@ -53,7 +57,7 @@ NYC Python
 
 `nycpython.com <http://nycpython.com>`_
 
-`@nycpythonmeetup <https://twitter.com/nycpythonmeetup.com>`_
+`@NYCPython <https://twitter.com/nycpytho>`_
 
 ----
 
@@ -65,7 +69,7 @@ Second largest `Python meetup <http://python.meetup.com>`_ in the world
 
 :id: nycpython-members
 
-Over 4,000 members!
+Over 4,200 members!
 
 ----
 
@@ -77,19 +81,30 @@ office hours every Tue
 study groups every Sat & Sun
 
 
-two headline events per month (usu. Thu)
+two headline events per month, every other Thursday (scheduled out to May!!)
 
 ----
 
-:id: nycpython-event
+:id: nycpython-upcoming
 
-Holiday Party
-=============
+Upcoming Events
+===============
 
-NYC Python + Flask NYC 
-----------------------
+Deployment: Tools and Techniques @ Spotify (Thu 23-Jan)
 
-Thurdsay, December 19, 2013 @ The Perfect Pint (203 E 45th St)
+PyData London Warm-up @ AppNexus (Thu 6-Feb)
+
+Project Night @ Chartbeat Studios (Thu 20-Feb)
+
+CPython Workshop, part deux @ Pivotal Labs (Thu 6-Mar)
+
+Testing: Tools, Techniques, and Approches @ NYT (Thu 20-Mar)
+
+Python and Hardware @ Two Sigma (Thu 17-Apr)
+
+A Night of Python @ eBay (Thu 15-May)
+
+(social event)
 
 ----
 
@@ -98,20 +113,38 @@ Thurdsay, December 19, 2013 @ The Perfect Pint (203 E 45th St)
 Office Hours & Study Groups
 ===========================
 
-Saturday, December 14, 2013
+Saturday Study Group
 
-Sunday, December 15, 2013 @ AlleyNYC
+`Saturday, January 18, 2014 @ NYPL <http://www.meetup.com/nycpython/events/158593392/>`_
 
-Tuesday, December 17, 2013 @ Lambda 
+Caturday Coding
+`Saturday, January 18, 2014 @ Olive Tree Cafe <http://www.meetup.com/nycpython/events/160469222/>`_
+
+Sunday Study Group
+`Study Group: Sunday, January 19, 2014 @ AlleyNYC <http://www.meetup.com/nycpython/events/154604702/>`_
+
+Weekly Office Hours
+`Weekly Office Hours: Tuesday, January 21, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/158621072/>`_
 
 ----
 
 :id: nycpython-event-3
 
-For Python Quants
-===========================
+Deployment: Tools and Techniques
+================================
 
-Thursday, January 16, 2014 @ Projective Space
+`Thursday, January 23, 2014 @ Spotify <http://www.meetup.com/nycpython/events/158621072/>`_
+
+----
+
+:id: sponsor-event
+
+For Python Quants Conf
+======================
+
+`Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com/>`_
+
+20% discount on registration: nycpython-20
 
 ----
 
@@ -122,22 +155,22 @@ Flask-NYC
 
 `flask-nyc.org <http://flask-nyc.org>`_
 
-`@flasknyc <https://twitter.com/flasknyc>`_
-
-----
-
-:id: flask-nyc-event
-
-Flask Workshop with PyLadies
-============================
-
-Wednesday, December 18, 2013 @ TheLadders
+`@FlaskNYC <https://twitter.com/flasknyc>`_
 
 ----
 
 :id: flask-nyc-size
 
 Largest `Flask meetup <http://flask.meetup.com>`_ in the world
+
+----
+
+:id: flask-nyc-event
+
+JavaScript MVC Showcase
+=======================
+
+`Wednesday, January 22, 2014 @ XO Group <http://www.meetup.com/flask-nyc/events/149518562/>`_
 
 ----
 
@@ -247,20 +280,6 @@ ben@nycpython.com
 
 ----
 
-:id: emily
-
-Emily Chen
-==========
-
-Study Groups
-------------
-
-emily@nycpython.com
-
-`@emchennyc <https://twitter.com/emchennyc>`_
-
-----
-
 :id: paul
 
 Paul Logston
@@ -294,7 +313,7 @@ kat@nycpython.com
 .. image:: logo.png
    :alt: Big Apple Py logo
 
-`follow: @nycpythonmeetup <https://twitter.com/nycpythonmeetup>`_
+`follow: @nycpython <https://twitter.com/nycpython>`_
 
 `follow: @flasknyc <https://twitter.com/flasknyc>`_
 

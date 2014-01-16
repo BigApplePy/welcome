@@ -67,3 +67,12 @@ div#ben h2 {
 div#logo {
   width: 1000px;
 }
+
+/* tweaks */
+div#nycpython-upcoming p {
+	font-size: 85%
+}
+
+div#office-hours-study-groups p {
+	font-size: 90%
+}

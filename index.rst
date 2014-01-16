@@ -29,13 +29,13 @@ Showcase Showdown
 
 `Python in Practice <http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000531789>`_
 
-`Learn Python the Hard Way (e-book) <learnpythonthehardway.org>`_
+`Learn Python the Hard Way (e-book) <http://learnpythonthehardway.org>`_
 
 `Derivative Analytics with Python <http://derivatives-analytics-with-python.com>`_
 
 `For Python Quants Conf, 14-Mar (2 tickets) <http://www.forpythonquants.com>`_
 
-`For Python Quants Conf, 14-Mar (20% discount) <http://www.forpythonquants.com>`_
+`For Python Quants Conf, 14-Mar (discount) <http://www.forpythonquants.com>`_
 
 ----
 
@@ -68,7 +68,7 @@ office hours every Tue
 
 study groups every Sat & Sun
 
-two headline events per month, every other Thursday (scheduled out to May!!)
+two headline events per month, every other Thursday (scheduled out to May!)
 
 ----
 
@@ -141,19 +141,19 @@ volunteer@nycpython.com
 Upcoming Events
 ===============
 
-Deployment: Tools and Techniques @ Spotify (Thu 23-Jan)
+Deployment: Tools and Techniques @ Spotify
 
-PyData London Warm-up @ AppNexus (Thu 6-Feb)
+PyData London Warm-up @ AppNexus
 
-Project Night @ Chartbeat Studios (Thu 20-Feb)
+Project Night @ Chartbeat Studios
 
-CPython Workshop, part deux @ Pivotal Labs (Thu 6-Mar)
+CPython Workshop, part deux @ Pivotal Labs
 
-Testing: Tools, Techniques, and Approches @ NYT (Thu 20-Mar)
+Testing: Tools, Techniques, and Approches @ NYT
 
-Python and Hardware @ Two Sigma (Thu 17-Apr)
+Python and Hardware @ Two Sigma
 
-A Night of Python @ eBay (Thu 15-May)
+A Night of Python @ eBay
 
 (social event)
 
@@ -204,7 +204,9 @@ For Python Quants Conf
 
 `Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com>`_
 
-20% discount on registration: nycpython-20
+20% discount on registration
+
+nycpython-20
 
 ----
 

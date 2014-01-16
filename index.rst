@@ -31,7 +31,7 @@ Showcase Showdown
 
 `Learn Python the Hard Way (e-book) <learnpythonthehardway.org>`_
 
-`Derivative Analytics with Python <http://derivatives-analytics-with-python.com/>`_
+`Derivative Analytics with Python <http://derivatives-analytics-with-python.com>`_
 
 `For Python Quants Conf, 14-Mar (2 tickets) <http://www.forpythonquants.com>`_
 
@@ -46,7 +46,7 @@ Big Apple Py
 
 `bigapplepy.org <http://bigapplepy.org>`_
 
-`@BigApplePyInc <https://twitter.com/bigapplepyinc>`_
+`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
 
 ----
 
@@ -57,7 +57,7 @@ NYC Python
 
 `nycpython.com <http://nycpython.com>`_
 
-`@NYCPython <https://twitter.com/nycpytho>`_
+`@nycpython <https://twitter.com/nycpython>`_
 
 ----
 
@@ -142,7 +142,7 @@ Deployment: Tools and Techniques
 For Python Quants Conf
 ======================
 
-`Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com/>`_
+`Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com>`_
 
 20% discount on registration: nycpython-20
 
@@ -155,7 +155,7 @@ Flask-NYC
 
 `flask-nyc.org <http://flask-nyc.org>`_
 
-`@FlaskNYC <https://twitter.com/flasknyc>`_
+`@flasknyc <https://twitter.com/flasknyc>`_
 
 ----
 

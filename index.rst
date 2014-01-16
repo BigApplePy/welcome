@@ -110,7 +110,7 @@ Big Apple Py
 
 :id: community
 
-building a technical community in NYC for developers
+building a technical community for developers in NYC
 
 ----
 
@@ -141,25 +141,27 @@ volunteer@nycpython.com
 Upcoming Events
 ===============
 
-Deployment: Tools and Techniques @ Spotify
+JavaScript MVC Showcase @ XO Group (Wed 22-Jan)
 
-PyData London Warm-up @ AppNexus
+Deployment: Tools and Techniques @ Spotify (Thu 23-Jan)
 
-Project Night @ Chartbeat Studios
+PyData London Warm-up @ AppNexus (Thu 6-Feb)
 
-CPython Workshop, part deux @ Pivotal Labs
+Project Night @ Chartbeat Studios (Thu 20-Feb)
 
-Testing: Tools, Techniques, and Approches @ NYT
+CPython Workshop, part deux @ Pivotal Labs (Thu 6-Feb)
 
-Python and Hardware @ Two Sigma
+Testing: Tools, Techniques, and Approches @ NYT (Thu 20-Mar)
 
-A Night of Python @ eBay
+Python and Hardware @ Two Sigma (Thu 17-Apr)
+
+A Night of Python @ eBay (Thu 15-May)
 
 (social event)
 
 ----
 
-:id: nycpython-event
+:id: office-hours-study-groups
 
 Office Hours & Study Groups
 ===========================
@@ -168,13 +170,19 @@ Saturday Study Group
 
 `Saturday, January 18, 2014 @ NYPL <http://www.meetup.com/nycpython/events/158593392/>`_
 
+
 Caturday Coding
+
 `Saturday, January 18, 2014 @ Olive Tree Cafe <http://www.meetup.com/nycpython/events/160469222/>`_
 
+
 Sunday Study Group
+
 `Study Group: Sunday, January 19, 2014 @ AlleyNYC <http://www.meetup.com/nycpython/events/154604702/>`_
 
+
 Weekly Office Hours
+
 `Weekly Office Hours: Tuesday, January 21, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/158621072/>`_
 
 ----
@@ -188,7 +196,7 @@ JavaScript MVC Showcase
 
 ----
 
-:id: nycpython-event-2
+:id: nycpython-event
 
 Deployment: Tools and Techniques
 ================================

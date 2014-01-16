@@ -39,17 +39,6 @@ Showcase Showdown
 
 ----
 
-:id: bap
-
-Big Apple Py
-============
-
-`bigapplepy.org <http://bigapplepy.org>`_
-
-`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
-
-----
-
 :id: nycpython
 
 NYC Python
@@ -77,74 +66,9 @@ Over 4,200 members!
 
 office hours every Tue
 
-
 study groups every Sat & Sun
 
-
 two headline events per month, every other Thursday (scheduled out to May!!)
-
-----
-
-:id: nycpython-upcoming
-
-Upcoming Events
-===============
-
-Deployment: Tools and Techniques @ Spotify (Thu 23-Jan)
-
-PyData London Warm-up @ AppNexus (Thu 6-Feb)
-
-Project Night @ Chartbeat Studios (Thu 20-Feb)
-
-CPython Workshop, part deux @ Pivotal Labs (Thu 6-Mar)
-
-Testing: Tools, Techniques, and Approches @ NYT (Thu 20-Mar)
-
-Python and Hardware @ Two Sigma (Thu 17-Apr)
-
-A Night of Python @ eBay (Thu 15-May)
-
-(social event)
-
-----
-
-:id: nycpython-event-2
-
-Office Hours & Study Groups
-===========================
-
-Saturday Study Group
-
-`Saturday, January 18, 2014 @ NYPL <http://www.meetup.com/nycpython/events/158593392/>`_
-
-Caturday Coding
-`Saturday, January 18, 2014 @ Olive Tree Cafe <http://www.meetup.com/nycpython/events/160469222/>`_
-
-Sunday Study Group
-`Study Group: Sunday, January 19, 2014 @ AlleyNYC <http://www.meetup.com/nycpython/events/154604702/>`_
-
-Weekly Office Hours
-`Weekly Office Hours: Tuesday, January 21, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/158621072/>`_
-
-----
-
-:id: nycpython-event-3
-
-Deployment: Tools and Techniques
-================================
-
-`Thursday, January 23, 2014 @ Spotify <http://www.meetup.com/nycpython/events/158621072/>`_
-
-----
-
-:id: sponsor-event
-
-For Python Quants Conf
-======================
-
-`Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com>`_
-
-20% discount on registration: nycpython-20
 
 ----
 
@@ -165,12 +89,22 @@ Largest `Flask meetup <http://flask.meetup.com>`_ in the world
 
 ----
 
-:id: flask-nyc-event
+:id: flask-schedule
 
-JavaScript MVC Showcase
-=======================
+one headline event per month (usu. Wed) 
 
-`Wednesday, January 22, 2014 @ XO Group <http://www.meetup.com/flask-nyc/events/149518562/>`_
+joint events with PyLadies, NYC Python
+
+----
+
+:id: bap
+
+Big Apple Py
+============
+
+`bigapplepy.org <http://bigapplepy.org>`_
+
+`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
 
 ----
 
@@ -199,6 +133,78 @@ jobs@nycpython.com
 volunteers for events
 
 volunteer@nycpython.com
+
+----
+
+:id: nycpython-upcoming
+
+Upcoming Events
+===============
+
+Deployment: Tools and Techniques @ Spotify (Thu 23-Jan)
+
+PyData London Warm-up @ AppNexus (Thu 6-Feb)
+
+Project Night @ Chartbeat Studios (Thu 20-Feb)
+
+CPython Workshop, part deux @ Pivotal Labs (Thu 6-Mar)
+
+Testing: Tools, Techniques, and Approches @ NYT (Thu 20-Mar)
+
+Python and Hardware @ Two Sigma (Thu 17-Apr)
+
+A Night of Python @ eBay (Thu 15-May)
+
+(social event)
+
+----
+
+:id: nycpython-event
+
+Office Hours & Study Groups
+===========================
+
+Saturday Study Group
+
+`Saturday, January 18, 2014 @ NYPL <http://www.meetup.com/nycpython/events/158593392/>`_
+
+Caturday Coding
+`Saturday, January 18, 2014 @ Olive Tree Cafe <http://www.meetup.com/nycpython/events/160469222/>`_
+
+Sunday Study Group
+`Study Group: Sunday, January 19, 2014 @ AlleyNYC <http://www.meetup.com/nycpython/events/154604702/>`_
+
+Weekly Office Hours
+`Weekly Office Hours: Tuesday, January 21, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/158621072/>`_
+
+----
+
+:id: flask-nyc-event
+
+JavaScript MVC Showcase
+=======================
+
+`Wednesday, January 22, 2014 @ XO Group <http://www.meetup.com/flask-nyc/events/149518562/>`_
+
+----
+
+:id: nycpython-event-2
+
+Deployment: Tools and Techniques
+================================
+
+`Thursday, January 23, 2014 @ Spotify <http://www.meetup.com/nycpython/events/158621072/>`_
+
+----
+
+:id: sponsor-event
+
+For Python Quants Conf
+======================
+
+`Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com>`_
+
+20% discount on registration: nycpython-20
 
 ----
 

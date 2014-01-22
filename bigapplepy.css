@@ -24,6 +24,10 @@ a:hover {
   color: rgba(0, 0, 0, .7);
 }
 
+div#ministry h1 {
+  font-size: 2.5em;
+}
+
 div#current-event h1,
 div#nycpython-event h1,
 div#flask-nyc-event h1 {

@@ -4,12 +4,23 @@
 
 ----
 
-:id: nycpython-current-event
+:id: bap
 
-For Python Quants
-=================
+Big Apple Py
+============
 
-Thursday, January 16, 2014 @ Projective Space (sponsored by VDX Technology)
+`bigapplepy.org <http://bigapplepy.org>`_
+
+`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
+
+----
+
+:id: current-event
+
+JavaScript MVC Showcase
+=======================
+
+Wednesday, January 22, 2014
 
 ----
 
@@ -22,29 +33,12 @@ Get your slides ready!
 
 ----
 
-:id: giveaway
-
-Showcase Showdown
-=================
-
-`Python in Practice <http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000531789>`_
-
-`Learn Python the Hard Way (e-book) <http://learnpythonthehardway.org>`_
-
-`Derivative Analytics with Python <http://derivatives-analytics-with-python.com>`_
-
-`For Python Quants Conf, 14-Mar (2 tickets) <http://www.forpythonquants.com>`_
-
-`For Python Quants Conf, 14-Mar (discount) <http://www.forpythonquants.com>`_
-
-----
-
 :id: nycpython
 
 NYC Python
 ==========
 
-`nycpython.com <http://nycpython.com>`_
+`nycpython.org <http://nycpython.org>`_
 
 `@nycpython <https://twitter.com/nycpython>`_
 
@@ -68,7 +62,7 @@ office hours every Tue
 
 study groups every Sat & Sun
 
-two headline events per month, every other Thursday (scheduled out to May!)
+two headline events per month, every other Thursday
 
 ----
 
@@ -91,20 +85,7 @@ Largest `Flask meetup <http://flask.meetup.com>`_ in the world
 
 :id: flask-schedule
 
-one headline event per month (usu. Wed) 
-
-joint events with PyLadies, NYC Python
-
-----
-
-:id: bap
-
-Big Apple Py
-============
-
-`bigapplepy.org <http://bigapplepy.org>`_
-
-`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
+one event per month
 
 ----
 
@@ -141,23 +122,19 @@ volunteer@nycpython.com
 Upcoming Events
 ===============
 
-JavaScript MVC Showcase @ XO Group (Wed 22-Jan)
+Deployment: Tools and Techniques @ Spotify (Thu Jan 23)
 
-Deployment: Tools and Techniques @ Spotify (Thu 23-Jan)
+PyData London Warm-up @ AppNexus (Thu Feb 6)
 
-PyData London Warm-up @ AppNexus (Thu 6-Feb)
+Project Night @ Chartbeat Studios (Thu Feb 20)
 
-Project Night @ Chartbeat Studios (Thu 20-Feb)
+CPython Workshop, part deux @ Pivotal Labs (Thu Mar 6)
 
-CPython Workshop, part deux @ Pivotal Labs (Thu 6-Feb)
+Testing: Tools, Techniques, and Approaches @ NYT (Thu Mar 20)
 
-Testing: Tools, Techniques, and Approches @ NYT (Thu 20-Mar)
+Python and Hardware @ Two Sigma (Thu Apr 17)
 
-Python and Hardware @ Two Sigma (Thu 17-Apr)
-
-A Night of Python @ eBay (Thu 15-May)
-
-(social event)
+A Night of Python @ eBay (Thu May 15)
 
 ----
 
@@ -168,31 +145,17 @@ Office Hours & Study Groups
 
 Saturday Study Group
 
-`Saturday, January 18, 2014 @ NYPL <http://www.meetup.com/nycpython/events/158593392/>`_
-
-
-Caturday Coding
-
-`Saturday, January 18, 2014 @ Olive Tree Cafe <http://www.meetup.com/nycpython/events/160469222/>`_
+`Saturday, January 25, 2014 @ Fueled Collective <http://www.meetup.com/nycpython/events/158787812/>`_
 
 
 Sunday Study Group
 
-`Study Group: Sunday, January 19, 2014 @ AlleyNYC <http://www.meetup.com/nycpython/events/154604702/>`_
+`Saturday, January 26, 2014 @ AlleyNYC <http://www.meetup.com/nycpython/events/160417362/>`_
 
 
 Weekly Office Hours
 
-`Weekly Office Hours: Tuesday, January 21, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/158621072/>`_
-
-----
-
-:id: flask-nyc-event
-
-JavaScript MVC Showcase
-=======================
-
-`Wednesday, January 22, 2014 @ XO Group <http://www.meetup.com/flask-nyc/events/149518562/>`_
+`Tuesday, January 28, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/159492102/>`_
 
 ----
 
@@ -205,16 +168,12 @@ Deployment: Tools and Techniques
 
 ----
 
-:id: sponsor-event
+:id: flask-nyc-event
 
-For Python Quants Conf
-======================
+Building (RESTful?) Frameworks
+==============================
 
-`Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com>`_
-
-20% discount on registration
-
-nycpython-20
+Coming in February
 
 ----
 

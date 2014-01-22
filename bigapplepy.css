@@ -24,17 +24,24 @@ a:hover {
   color: rgba(0, 0, 0, .7);
 }
 
+div#current-event h1,
 div#nycpython-event h1,
 div#flask-nyc-event h1 {
   font-size: 1.8em;
 }
 
-div#nycpython-schedule p {
-  line-height: 2em;
-}
-
+div#nycpython-schedule,
 div#community {
   width: 590px;
+}
+
+div#nycpython-event,
+div#flask-nyc-event {
+  width: 940px;
+}
+
+div#nycpython-schedule p {
+  margin-bottom: 1.5em;
 }
 
 div#james h1,
@@ -61,7 +68,7 @@ div#ben h2 {
 }
 
 div#ben h2 {
-  font-size: 1.8em;
+  font-size: 1.6em;
 }
 
 div#logo {
@@ -70,9 +77,9 @@ div#logo {
 
 /* tweaks */
 div#nycpython-upcoming p {
-	font-size: 85%
+  font-size: 85%;
 }
 
 div#office-hours-study-groups p {
-	font-size: 90%
+  font-size: 90%;
 }

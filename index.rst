@@ -4,23 +4,21 @@
 
 ----
 
-:id: bap
+:id: nycpython-current-event
 
-Big Apple Py
-============
+Deployment: Tools and Techniques
+================================
 
-`bigapplepy.org <http://bigapplepy.org>`_
-
-`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
+Thursday, January 23, 2014 @ Spotify
 
 ----
 
-:id: current-event
+:id: video
 
-JavaScript MVC Showcase
-=======================
+Video & Live-Streaming
+======================
 
-Wednesday, January 22, 2014
+`Spotify Live-Stream <http://new.livestream.com/spotify/python>`_
 
 ----
 
@@ -33,12 +31,27 @@ Get your slides ready!
 
 ----
 
+:id: giveaway
+
+Showcase Showdown
+=================
+
+`Learn Python the Hard Way <http://learnpythonthehardway.org>`_
+
+`Python in Practice (e-book) <http://www.amazon.com/dp/0321905636>`_
+
+`For Python Quants Conf, 14-Mar (ticket & discount) <http://www.forpythonquants.com>`_
+
+Spotify swag (t-shirts & stickers)
+
+----
+
 :id: nycpython
 
 NYC Python
 ==========
 
-`nycpython.org <http://nycpython.org>`_
+`nycpython.com <http://nycpython.com>`_
 
 `@nycpython <https://twitter.com/nycpython>`_
 
@@ -46,13 +59,13 @@ NYC Python
 
 :id: nycpython-size
 
-Second largest `Python meetup <http://python.meetup.com>`_ in the world
+one of the two largest `Python meetups <http://python.meetup.com>`_ in the world
 
 ----
 
 :id: nycpython-members
 
-Over 4,200 members!
+almost 4,300 members!
 
 ----
 
@@ -79,19 +92,40 @@ Flask-NYC
 
 :id: flask-nyc-size
 
-Largest `Flask meetup <http://flask.meetup.com>`_ in the world
+largest `Flask meetup <http://flask.meetup.com>`_ in the world
 
 ----
 
 :id: flask-schedule
 
-one event per month
+one headline event per month
+
+----
+
+:id: bap
+
+Big Apple Py
+============
+
+`bigapplepy.org <http://bigapplepy.org>`_
+
+`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
+
+(the box)
 
 ----
 
 :id: community
 
 building a technical community for developers in NYC
+
+----
+
+:id: irc
+
+#nycpython on Freenode
+
+`/join #nycpython <http://webchat.freenode.net>`_
 
 ----
 
@@ -117,16 +151,31 @@ volunteer@nycpython.com
 
 ----
 
+:id: nycpython-past
+
+Past Events
+===========
+
+For Python Quants @ VDX Technologies (Thu Jan 16)
+
+Caturday Coding @ Olive Tree Cafe (Sat Jan 18)
+
+JavaScript MVC Showcase @ XO Group (Wed Jan 22)
+
+----
+
 :id: nycpython-upcoming
 
 Upcoming Events
 ===============
 
-Deployment: Tools and Techniques @ Spotify (Thu Jan 23)
+Mock Interviews @ InterviewJet (Tue Jan 28)
 
 PyData London Warm-up @ AppNexus (Thu Feb 6)
 
 Project Night @ Chartbeat Studios (Thu Feb 20)
+
+(tentative social event Thu Feb 27)
 
 CPython Workshop, part deux @ Pivotal Labs (Thu Mar 6)
 
@@ -150,21 +199,25 @@ Saturday Study Group
 
 Sunday Study Group
 
-`Saturday, January 26, 2014 @ Flatiron School <http://www.meetup.com/nycpython/events/160417362/>`_
+`Sunday, January 26, 2014 @ Flatiron School <http://www.meetup.com/nycpython/events/160417362/>`_
 
 
 Weekly Office Hours
 
 `Tuesday, January 28, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/159492102/>`_
 
+Mock Interviews
+
+`(also) Tuesday, January 28, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/162048282/>`_
+
 ----
 
 :id: nycpython-event
 
-Deployment: Tools and Techniques
-================================
+PyData London Warm-up
+=====================
 
-`Thursday, January 23, 2014 @ Spotify <http://www.meetup.com/nycpython/events/158621072/>`_
+`Thursday, February 6, 2014 @ AppNexus <http://www.meetup.com/nycpython/events/159021512/>`_
 
 ----
 
@@ -177,10 +230,41 @@ Coming in February
 
 ----
 
+:id: sponsor-event
+
+Conference "For Python Quants"
+==============================
+
+20% discount on registration
+
+free ticket
+
+`Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com>`_
+
+
+nycpython-20
+
+----
+
+:id: sponsor-discount
+
+Pearson & InformIT.com
+======================
+
+USERGROUP
+
+35% of all print books (free shipping)
+
+IUGD45
+
+45% off e-books
+
+----
+
 :id: james
 
-James Powell
-============
+James "Jimbo" Powell
+====================
 
 President, Big Apple Py
 -----------------------

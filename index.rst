@@ -150,7 +150,7 @@ Saturday Study Group
 
 Sunday Study Group
 
-`Saturday, January 26, 2014 @ AlleyNYC <http://www.meetup.com/nycpython/events/160417362/>`_
+`Saturday, January 26, 2014 @ Flatiron School <http://www.meetup.com/nycpython/events/160417362/>`_
 
 
 Weekly Office Hours
@@ -170,8 +170,8 @@ Deployment: Tools and Techniques
 
 :id: flask-nyc-event
 
-Building (RESTful?) Frameworks
-==============================
+Building (RESTful?) APIs
+========================
 
 Coming in February
 

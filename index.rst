@@ -6,19 +6,10 @@
 
 :id: nycpython-current-event
 
-Deployment: Tools and Techniques
-================================
+PyData London Warm-up
+=====================
 
-Thursday, January 23, 2014 @ Spotify
-
-----
-
-:id: video
-
-Video & Live-Streaming
-======================
-
-`Spotify Live-Stream <http://new.livestream.com/spotify/python>`_
+Thursday, February 6, 2014 @ AppNexus
 
 ----
 
@@ -36,13 +27,13 @@ Get your slides ready!
 Showcase Showdown
 =================
 
-`Learn Python the Hard Way <http://learnpythonthehardway.org>`_
+`Learn Python the Hard Way - Zed Shaw <http://learnpythonthehardway.org>`_
 
-`Python in Practice (e-book) <http://www.amazon.com/dp/0321905636>`_
+`Fundamentals of Data Analytics in Python LiveLessons - Peter Wang <http://www.mypearsonstore.com/bookstore/fundamentals-of-data-analytics-in-python-livelessons-9780133599459>`_
+
+`PyData London 2014 (ticket & discount) <http://www.pydata.org/ldn2014/>`_
 
 `For Python Quants Conf, 14-Mar (ticket & discount) <http://www.forpythonquants.com>`_
-
-Spotify swag (t-shirts & stickers)
 
 ----
 
@@ -156,11 +147,15 @@ volunteer@nycpython.com
 Past Events
 ===========
 
-For Python Quants @ VDX Technologies (Thu Jan 16)
+`For Python Quants @ VDX Technologies (Thu Jan 16) <http://www.meetup.com/nycpython/events/159018902/>`_
 
-Caturday Coding @ Olive Tree Cafe (Sat Jan 18)
+`Caturday Coding @ Olive Tree Cafe (Sat Jan 18) <http://www.meetup.com/nycpython/events/160469222/>`_
 
-JavaScript MVC Showcase @ XO Group (Wed Jan 22)
+`JavaScript MVC Showcase @ XO Group (Wed Jan 22) <http://www.meetup.com/flask-nyc/events/149518562/>`_
+
+`Deployment: Tools and Techniques @ Spotify (Thu Jan 23) <http://www.meetup.com/nycpython/events/159020382/>`_
+
+`Mock Interviews @ InterviewJet (Tue Jan 28) <http://www.meetup.com/nycpython/events/162048282/>`_
 
 ----
 
@@ -169,21 +164,21 @@ JavaScript MVC Showcase @ XO Group (Wed Jan 22)
 Upcoming Events
 ===============
 
-Mock Interviews @ InterviewJet (Tue Jan 28)
+`Building (RESTful? APIs with Flask (Thu Feb 13) <http://www.meetup.com/flask-nyc/events/164230112/>`_
 
-PyData London Warm-up @ AppNexus (Thu Feb 6)
+`Project Night @ Chartbeat Studios (Thu Feb 20) <http://www.meetup.com/nycpython/events/159678372/>`_
 
-Project Night @ Chartbeat Studios (Thu Feb 20)
+`Unnamed Drink-up Project (Thu Feb 27) <http://www.meetup.com/nycpython/events/163590562/>`_
 
-(tentative social event Thu Feb 27)
+`CPython Workshop, part deux @ Pivotal Labs (Thu Mar 6) <http://www.meetup.com/nycpython/events/159666652/>`_
 
-CPython Workshop, part deux @ Pivotal Labs (Thu Mar 6)
+`Testing: Tools, Techniques, and Approaches @ NYT (Thu Mar 20) <http://www.meetup.com/nycpython/events/159661762/>`_
 
-Testing: Tools, Techniques, and Approaches @ NYT (Thu Mar 20)
+`PyCon Warm-up @ Spotify (Thu Apr 3) <http://www.meetup.com/nycpython/events/163115902/>`_
 
-Python and Hardware @ Two Sigma (Thu Apr 17)
+`Python and Hardware @ Two Sigma (Thu Apr 17) <http://www.meetup.com/nycpython/events/160411352/>`_
 
-A Night of Python @ eBay (Thu May 15)
+`A Night of Python @ eBay (Thu May 15) <http://www.meetup.com/nycpython/events/160950872/>`_
 
 ----
 
@@ -194,30 +189,28 @@ Office Hours & Study Groups
 
 Saturday Study Group
 
-`Saturday, January 25, 2014 @ Fueled Collective <http://www.meetup.com/nycpython/events/158787812/>`_
+`Saturday, February 8, 2014 @ Fueled Collective <http://www.meetup.com/nycpython/events/160476872/>`_
 
 
 Sunday Study Group
 
-`Sunday, January 26, 2014 @ Flatiron School <http://www.meetup.com/nycpython/events/160417362/>`_
+`Sunday, February 9, 2014 @ Flatiron School <http://www.meetup.com/nycpython/events/160381192/>`_
 
 
 Weekly Office Hours
 
-`Tuesday, January 28, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/159492102/>`_
+`Tuesday, February 11, 2014 @ Bitly HQ <http://www.meetup.com/nycpython/events/154490082/>`_
 
-Mock Interviews
-
-`(also) Tuesday, January 28, 2014 @ InterviewJet HQ <http://www.meetup.com/nycpython/events/162048282/>`_
 
 ----
 
 :id: nycpython-event
 
-PyData London Warm-up
-=====================
 
-`Thursday, February 6, 2014 @ AppNexus <http://www.meetup.com/nycpython/events/159021512/>`_
+Project Night
+=============
+
+`Thursday, February 20, 2014 @ Chartbeat Studios <http://www.meetup.com/nycpython/events/159678372/>`_
 
 ----
 
@@ -226,11 +219,27 @@ PyData London Warm-up
 Building (RESTful?) APIs
 ========================
 
-Coming in February
+`Thursday, February 13, 2014 <http://www.meetup.com/flask-nyc/events/164230112/>`_
 
 ----
 
-:id: sponsor-event
+:id: sponsor-event-1
+
+PyData London 2014
+==================
+
+15% discount on registration
+
+free ticket
+
+`Friday, February 21, 2014 to Friday, February 23, 2014 @ Level39 Canary Wharf <http://pydata.org/ldn2014/>`_
+
+
+nycpython-20
+
+----
+
+:id: sponsor-event-2
 
 Conference "For Python Quants"
 ==============================

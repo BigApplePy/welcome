@@ -56,7 +56,7 @@ one of the two largest `Python meetups <http://python.meetup.com>`_ in the world
 
 :id: nycpython-members
 
-almost 4,300 members!
+almost 4,400 members!
 
 ----
 
@@ -272,7 +272,7 @@ IUGD45
 
 :id: james
 
-James "Jimbo" Powell
+James ‘Jimbo’ Powell
 ====================
 
 President, Big Apple Py

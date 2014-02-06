@@ -81,9 +81,23 @@ div#logo {
 
 /* tweaks */
 div#nycpython-past p, div#nycpython-upcoming p {
-  font-size: 85%;
+  font-size: 80%;
 }
 
 div#office-hours-study-groups p {
   font-size: 90%;
+}
+
+.impress-on-logo {
+	background-color: white;
+}
+
+.impress-on-logo a {
+	background-color: white;
+	color: black;
+}
+
+.impress-on-logo a:hover {
+	background-color: black;
+	color: white;
 }

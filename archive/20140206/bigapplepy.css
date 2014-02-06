@@ -1,0 +1,89 @@
+@import url(hovercraft.css);
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+a {
+  background: #000;
+  color: rgba(255, 255, 255, .7);
+}
+
+a:hover {
+  background: rgba(255, 255, 255, .7);
+  color: rgba(0, 0, 0, .7);
+}
+
+div#ministry h1 {
+  font-size: 2.5em;
+}
+
+div#current-event h1,
+div#nycpython-event h1,
+div#flask-nyc-event h1 {
+  font-size: 1.8em;
+}
+
+div#nycpython-schedule,
+div#community {
+  width: 590px;
+}
+
+div#nycpython-event,
+div#flask-nyc-event {
+  width: 940px;
+}
+
+div#nycpython-schedule p {
+  margin-bottom: 1.5em;
+}
+
+div#james h1,
+div#andy h1,
+div#celia h1,
+div#kat h1,
+div#jon h1,
+div#emily h1,
+div#ben h1 {
+  font-size: 3em;
+  margin-bottom: 0;
+}
+
+div#james h2,
+div#andy h2,
+div#celia h2,
+div#kat h2,
+div#jon h2,
+div#emily h2,
+div#ben h2 {
+  font-size: 2em;
+  margin-bottom: .6em;
+  margin-top: 0;
+}
+
+div#ben h2 {
+  font-size: 1.6em;
+}
+
+div#logo {
+  width: 1000px;
+}
+
+/* tweaks */
+div#nycpython-past p, div#nycpython-upcoming p {
+  font-size: 85%;
+}
+
+div#office-hours-study-groups p {
+  font-size: 90%;
+}

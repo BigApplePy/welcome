@@ -6,10 +6,10 @@
 
 :id: nycpython-current-event
 
-PyData London Warm-up
-=====================
+CPython Workshop, part deux
+===========================
 
-Thursday, February 6, 2014 @ AppNexus
+Thursday, March 6, 2014 @ Pivotal
 
 ----
 
@@ -24,16 +24,27 @@ Get your slides ready!
 
 :id: giveaway
 
-Showcase Showdown
-=================
+For You
+=======
 
-`Learn Python the Hard Way - Zed Shaw <http://learnpythonthehardway.org>`_
+`Python in Practice - Mark Summerfield <http://www.amazon.com/dp/0321905636>`_
 
-`Fundamentals of Data Analytics in Python LiveLessons - Peter Wang <http://www.mypearsonstore.com/bookstore/fundamentals-of-data-analytics-in-python-livelessons-9780133599459>`_
+`conference ‘for Python Quants’, Pi-day, Mar 14 (VIP & discount code) <http://www.forpythonquants.com>`_
 
-`PyData London 2014 (ticket & discount) <http://www.pydata.org/ldn2014/>`_
+----
 
-`For Python Quants Conf, 14-Mar (ticket & discount) <http://www.forpythonquants.com>`_
+:id: bap
+
+Big Apple Py
+============
+
+building a technical community for developers in NYC
+
+`bigapplepy.org <http://bigapplepy.org>`_ 
+
+`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
+
+(le box)
 
 ----
 
@@ -42,21 +53,15 @@ Showcase Showdown
 NYC Python
 ==========
 
-`nycpython.com <http://nycpython.com>`_
+one of the two largest `Python meetups <http://python.meetup.com>`_ in the world
+
+over 4,500 members!
+
+`nycpython.org <http://nycpython.org>`_
 
 `@nycpython <https://twitter.com/nycpython>`_
 
-----
-
-:id: nycpython-size
-
-one of the two largest `Python meetups <http://python.meetup.com>`_ in the world
-
-----
-
-:id: nycpython-members
-
-almost 4,400 members!
+`/join #nycpython (on Freenode) <http://webchat.freenode.net>`_
 
 ----
 
@@ -75,15 +80,13 @@ two headline events per month, every other Thursday
 Flask-NYC
 =========
 
+largest `Flask meetup <http://flask.meetup.com>`_ in the world
+
 `flask-nyc.org <http://flask-nyc.org>`_
 
 `@flasknyc <https://twitter.com/flasknyc>`_
 
-----
-
-:id: flask-nyc-size
-
-largest `Flask meetup <http://flask.meetup.com>`_ in the world
+`/join #flask-nyc (on Freenode) <http://webchat.freenode.net>`_
 
 ----
 
@@ -93,52 +96,20 @@ one headline event per month
 
 ----
 
-:id: bap
-
-Big Apple Py
-============
-
-`bigapplepy.org <http://bigapplepy.org>`_
-
-`@bigapplepyinc <https://twitter.com/bigapplepyinc>`_
-
-(the box)
-
-----
-
-:id: community
-
-building a technical community for developers in NYC
-
-----
-
-:id: irc
-
-#nycpython on Freenode
-
-`/join #nycpython <http://webchat.freenode.net>`_
-
-----
-
 :id: reddit
 
 `/r/nyctech <http://reddit.com/r/nycpython>`_
+---------------------------------------------
 
 ----
 
-:id: jobs
+:id: speakers-jobs-volunteers
 
-jobs help
+speakers → speak@nycpython.com
 
-jobs@nycpython.com
+jobs help → jobs@nycpython.com
 
-----
-
-:id: volunteers
-
-volunteers for events
-
-volunteer@nycpython.com
+volunteers → volunteer@nycpython.com
 
 ----
 
@@ -157,6 +128,12 @@ Past Events
 
 `Mock Interviews @ InterviewJet (Tue Jan 28) <http://www.meetup.com/nycpython/events/162048282/>`_
 
+`Building (RESTful?) APIs with Flask (Thu Feb 13) <http://www.meetup.com/flask-nyc/events/164230112/>`_
+
+`Project Night @ Chartbeat Studios (Thu Feb 20) <http://www.meetup.com/nycpython/events/159678372/>`_
+
+`Unnamed Drink-up Project (Thu Feb 27) <http://www.meetup.com/nycpython/events/163590562/>`_
+
 ----
 
 :id: nycpython-upcoming
@@ -164,21 +141,17 @@ Past Events
 Upcoming Events
 ===============
 
-`Building (RESTful? APIs with Flask (Thu Feb 13) <http://www.meetup.com/flask-nyc/events/164230112/>`_
-
-`Project Night @ Chartbeat Studios (Thu Feb 20) <http://www.meetup.com/nycpython/events/159678372/>`_
-
-`Unnamed Drink-up Project (Thu Feb 27) <http://www.meetup.com/nycpython/events/163590562/>`_
-
-`CPython Workshop, part deux @ Pivotal Labs (Thu Mar 6) <http://www.meetup.com/nycpython/events/159666652/>`_
-
 `Testing: Tools, Techniques, and Approaches @ NYT (Thu Mar 20) <http://www.meetup.com/nycpython/events/159661762/>`_
 
 `PyCon Warm-up @ Spotify (Thu Apr 3) <http://www.meetup.com/nycpython/events/163115902/>`_
 
 `Python and Hardware @ Two Sigma (Thu Apr 17) <http://www.meetup.com/nycpython/events/160411352/>`_
 
+`Utilities Talks! @ DigitalOcean (Thu May 1) <http://www.meetup.com/nycpython/events/166998342/>`_
+
 `A Night of Python @ eBay (Thu May 15) <http://www.meetup.com/nycpython/events/160950872/>`_
+
+`Bython: Biology & Python @ DigitalOcean (Thu May 29) <http://www.meetup.com/nycpython/events/165886472/>`_
 
 ----
 
@@ -189,69 +162,45 @@ Office Hours & Study Groups
 
 Saturday Study Group
 
-`Saturday, February 8, 2014 @ Fueled Collective <http://www.meetup.com/nycpython/events/160476872/>`_
+`Saturday, March 8, 2014 @ Fueled Collective <http://www.meetup.com/nycpython/events/165451902/>`_
 
 
 Sunday Study Group
 
-`Sunday, February 9, 2014 @ Flatiron School <http://www.meetup.com/nycpython/events/160381192/>`_
+`Sunday, March 9, 2014 @ Flatiron School <http://www.meetup.com/nycpython/events/166454132/>`_
 
 
 Weekly Office Hours
 
-`Tuesday, February 11, 2014 @ Bitly HQ <http://www.meetup.com/nycpython/events/154490082/>`_
-
+`Tuesday, March 11, 2014 @ Hayes Law Firm <http://www.meetup.com/nycpython/events/166688662/>`_
 
 ----
 
 :id: nycpython-event
 
+Testing: Tools, Techniques, and Approaches @ NYT
+================================================
 
-Project Night
-=============
-
-`Thursday, February 20, 2014 @ Chartbeat Studios <http://www.meetup.com/nycpython/events/159678372/>`_
+`Testing: Tools, Techniques, and Approaches @ NYT (Thu Mar 20) <http://www.meetup.com/nycpython/events/159661762/>`_
 
 ----
 
 :id: flask-nyc-event
 
-Building (RESTful?) APIs
-========================
-
-`Thursday, February 13, 2014 <http://www.meetup.com/flask-nyc/events/164230112/>`_
+`Follow @flasknyc <http://twitter.com/flasknyc>`_ for updates & announcements for our next event!
 
 ----
 
 :id: sponsor-event-1
 
-PyData London 2014
-==================
-
-15% discount on registration
-
-free ticket
-
-`Friday, February 21, 2014 to Friday, February 23, 2014 @ Level39 Canary Wharf <http://pydata.org/ldn2014/>`_
-
-
-nycpython-20
-
-----
-
-:id: sponsor-event-2
-
-Conference "For Python Quants"
+conference ‘for Python Quants’
 ==============================
-
-20% discount on registration
-
-free ticket
 
 `Friday, March 14, 2014 @ Executive Conference Center <http://www.forpythonquants.com>`_
 
+`nycpython-30 → 30%-off registration <http://pythonquants.eventbrite.com/?discount=nycpython-30>`_
 
-nycpython-20
+free tickets
 
 ----
 
@@ -260,119 +209,48 @@ nycpython-20
 Pearson & InformIT.com
 ======================
 
-USERGROUP
+USERGROUP → 35%-off books (free S&H)
 
-35% of all print books (free shipping)
-
-IUGD45
-
-45% off e-books
+IUGD45 → 45%-off e-books
 
 ----
 
-:id: james
+:id: organizers
 
-James ‘Jimbo’ Powell
-====================
+James Powell, President, Big Apple Py
+-------------------------------------
 
-President, Big Apple Py
------------------------
+james@nycpython.com // `@dontusethiscode <https://twitter.com/dontusethiscode>`_
 
-james@nycpython.com
+Andy Dirnberger, Treasurer, Big Apple Py
+-----------------------------------------
 
-`@dontusethiscode <https://twitter.com/dontusethiscode>`_
+andy@nycpython.com // `@dirn <https://twitter.com/dirn>`_
 
-----
-
-:id: andy
-
-Andy Dirnberger
-===============
-
-Treasurer, Big Apple Py
------------------------
-
-andy@nycpython.com
-
-`@dirn <https://twitter.com/dirn>`_
-
-----
-
-:id: gloria
-
-Gloria
-======
-
-Director, Big Apple Py
------------------------
+Gloria, Director, Big Apple Py
+------------------------------
 
 gloria@nycpython.com
 
-----
+Celia La, Secretary, Big Apple Py
+---------------------------------
 
-:id: celia
+celia@nycpython.com // `@celiala <https://twitter.com/celiala>`_
 
-Celia La
-========
-
-Secretary, Big Apple Py
------------------------
-
-celia@nycpython.com
-
-`@celiala <https://twitter.com/celiala>`_
-
-----
-
-:id: jon
-
-Jon Banafato
-============
-
-Office Hours
-------------
+Jon Banafato, Office Hours
+--------------------------
 
 jon@nycpython.com
 
-----
-
-:id: ben
-
-Ben Hayes
-=========
-
-General Counsel, Big Apple Py
------------------------------
+Ben Hayes, Specific Counsel, Big Apple Py
+-----------------------------------------
 
 ben@nycpython.com
 
-----
+Paul Logston, Study Groups
+--------------------------
 
-:id: paul
-
-Paul Logston
-============
-
-Study Groups
-------------
-
-paul@nycpython.com
-
-`@paullogston <https://twitter.com/paullogston>`_
-
-----
-
-:id: kat
-
-Kat Chuang
-==========
-
-Founder, NYC PyLadies
----------------------
-
-kat@nycpython.com
-
-`@katychuang <https://twitter.com/katychuang>`_
+paul@nycpython.com // `@paullogston <https://twitter.com/paullogston>`_
 
 ----
 
